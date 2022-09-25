@@ -2,7 +2,7 @@
 
 
 
-![preview](./imagens_log/TELA%20LOGIN.jpeg)
+![preview](./git%20hub/TELA%20LOGIN.jpeg)
 
 Projeto Softwarer em andamento 
 
