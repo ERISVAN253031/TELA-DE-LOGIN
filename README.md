@@ -4,7 +4,7 @@
 
 ![preview](./imagens_log/TELA%20LOGIN.jpeg)
 
-Projeto Softwarer  Academia em andamento 
+Projeto Software Academia em andamento 
 
 
 ## Tecnologias 
