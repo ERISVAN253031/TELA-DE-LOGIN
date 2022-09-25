@@ -1,14 +1,15 @@
-# Tela de Login
+# NLW eSports 
 
-
+>Trilha Explorer
 
 ![preview](./imagens_log/TELA%20LOGIN.jpeg)
 
-Projeto criação de um Softwarer em andameento 
-
+Projeto construido no
+evento Next Level Week
+da Rockeseat
 
 [Clique aqui para 
-acessar](https://file:///C:/Users/erisvan666/Downloads/tela%20html/tela%20html/tela_login/index.java.html)
+acessar](file:///C:/Users/erisvan666/Downloads/tela%20html/tela%20html/tela_login/index.java.html/)
 
 ## Tecnologias 
 
