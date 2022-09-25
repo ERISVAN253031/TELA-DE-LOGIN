@@ -1,10 +1,10 @@
-# Tela Login
+# Tela Login Academia
 
 
 
 ![preview](./imagens_log/TELA%20LOGIN.jpeg)
 
-Projeto Softwarer em andamento 
+Projeto Softwarer  Academia em andamento 
 
 
 ## Tecnologias 
